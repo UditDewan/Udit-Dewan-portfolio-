@@ -1,7 +1,6 @@
-# Kimball Midwest Inventory Manager
+#t Inventory Manager
 
-A Java CRUD application demonstrating proper software engineering practices for industrial supply inventory management. Built as a portfolio project for the Kimball Midwest Software Engineering Internship.
-
+A Java CRUD application demonstrating proper software engineering practices for industrial supply inventory management.
 ## Architecture
 
 ```
